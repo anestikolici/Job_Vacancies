@@ -33,7 +33,6 @@
 
     if(isset($_SESSION['id']))
     {
-        echo "hello user: ".$_SESSION['id'];
 
         $id=$_SESSION['id'];
 
